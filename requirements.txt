@@ -4,3 +4,4 @@ black
 pytest
 pytest-subtests
 beautifulsoup4
+ruff
